@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dda7001d149dc8d41bbdd07deeb7777c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Distress
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d5b5ac92b3b00444fbc1427da4a77b2d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
