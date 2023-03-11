@@ -1,5 +1,5 @@
 # WORD SEARCH GAME
-It is a game played by collecting chicken pieces on an endless road with 3 different bears.
+It is a word finding game made with Unity. It is a game that will improve your English level by finding the English equivalent of the given word on time.
 
 ## Watch Game Play
 
